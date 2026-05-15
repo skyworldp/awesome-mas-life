@@ -21,11 +21,14 @@
 If you find this survey useful, please cite:
 
 ```bibtex
-@article{qi2026beyond,
-  title   = {Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution},
-  author  = {Qi, Shihao and Ma, Jie and Xing, Rui and Guo, Wei and Huang, Xiao and Gao, Zhitao and Deng, Jianhao and Liu, Jun and Zhang, Lingling and Wei, Bifan and Wang, Pinghui and Wu, Yaqiang and Liu, Hui and Tao, Jing and Liu, Tongliang},
-  journal = {PLACEHOLDER_VENUE},
-  year    = {PLACEHOLDER_YEAR}
+@article{qi2026individual,
+      title={Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems}, 
+      author={Shihao Qi and Jie Ma and Rui Xing and Wei Guo and Xiao Huang and Zhitao Gao and Jianhao Deng and Jun Liu and Lingling Zhang and Bifan Wei and Boqian Yang and Pinghui Wang and Jianwen Sun and Jing Tao and Yaqiang Wu and Hui Liu and Yu Yao and Tongliang Liu},
+      year={2026},
+      eprint={2605.14892},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.14892}, 
 }
 ```
 
